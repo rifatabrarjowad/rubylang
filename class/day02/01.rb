@@ -1,1 +1,3 @@
-puts "Hello World"
+a = 5
+
+puts a
